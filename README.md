@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GonzaloDa
 - 👀 I’m interested in developing a career as Geoinformatician
-- 🌱 I’m currently learning Java Script, R and Python
+- 🌱 I’m currently learning GIS, SQL, JavaScript, R and Python
 - 💞️ I’m looking to collaborate on projects related to Google Earth Engine
 - 📫 How to reach me ...
 
